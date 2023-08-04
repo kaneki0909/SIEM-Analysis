@@ -5,7 +5,8 @@
   - ![CreateVM](/Virtual-Box-setup/img/Creating%20Vm%20.png)
 - Fill in the Factors for the Virtual Machine
   -   ![VMsetup](img/Vm%20settings.png)
-- In the Networking part of the VM Setup we have to configure our network security group to advanced and allow all ports to be open so we can actually record attacks and failed logons.
+- In the Networking part of the VM Setup we have to configure our network security group to advanced and allow all ports to be open so we can actually record attacks and failed logons. 
+    <br> 
   - Under "NIC network seurity group" check the "Advanced" option and Click on "Create new" next to the "Configure network security group". (You are basically creating your own firewall)
     - ![Networkconf1](/Virtual-Box-setup/img/network%20security%20config-1.png)
   - Give your firewall a name and you will see a default inbound rule you will have to remove it and add a inbound rule. 
