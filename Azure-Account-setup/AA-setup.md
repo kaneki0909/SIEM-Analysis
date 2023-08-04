@@ -1,13 +1,13 @@
 ## Go to the Azure Website
 - Open your web browser and go to the Microsoft Azure Website <br> https://azure.microsoft.com/ 
 ![azurehomepage](/Azure-Account-setup/Img/Azurehomepage.png) 
-- Click on "Start Free" or "Sign In":
+  - Click on "Start Free" or "Sign In":
 
-  1.  If you don't have an Azure account, click on the "Start Free" button to sign up for a free trial.
+  1. If you don't have an Azure account, click on the "Start Free" button to sign up for a free trial.
   ![start free](/Azure-Account-setup/Img/Startfreeindication.png) 
-    <br> 
-     Create an account by entering your details 
-    ![Create](/Azure-Account-setup/Img/Signin.png) 
+  <br> 
+  Create an account by entering your details 
+  ![Create](/Azure-Account-setup/Img/Signin.png) 
   
     
   
