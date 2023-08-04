@@ -7,7 +7,7 @@
   ![start free](/Azure-Account-setup/Img/Startfreeindication.png) 
      <br> 
   - Register and fill in your details and create your account  
-      ![Register](/Azure-Account-setup/Img/CreateAccount.png)
+      ![Reg](Img/CreateAccount.png)
     
     <br>
 
