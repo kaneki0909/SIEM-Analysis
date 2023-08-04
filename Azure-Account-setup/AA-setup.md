@@ -15,5 +15,8 @@
  - Once you login this is how your landing page should look like 
        ![Landpage](/Azure-Account-setup/Img/loggedinlandingpage.png)  
 
- ***Now you are Good to explore Azure Cloud services***
+ ***Now you are Good to explore Azure Cloud services*** 
+
+ Video References for Creating and Setting up an Azure Account. <br>
+ https://www.youtube.com/watch?v=kyXhJyNZEJU 
   
