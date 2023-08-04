@@ -6,13 +6,13 @@
   1.  If you don't have an Azure account, click on the "Start Free" button to sign up for a free trial.
   ![start free](/Azure-Account-setup/Img/Startfreeindication.png) 
     <br> 
-  - Register and fill in your details and create your account. <br>
-       ![Create](/Azure-Account-setup/Img/Create.png)
+  - Create an account by entering your details 
+    ![Create](/Azure-Account-setup/Img/Signin.png) 
   
     
   
   2 . If you already have a Microsoft account (Outlook, Hotmail, Xbox, etc.), click on "Sign In" in the top right corner. 
-         ![signin](/Azure-Account-setup/Img/Signin.png) 
+        ![signin](/Azure-Account-setup/Img/Signin.png) 
         <br>
         <br>
 - Once you login this is how your landing page should look like 
@@ -20,5 +20,3 @@
 
  ***Now you are Good to explore Azure Cloud services***
   
-
-[def]: /Azure-Account-setup/Img/createAccount.png
