@@ -7,10 +7,7 @@
   ![start free](/Azure-Account-setup/Img/Startfreeindication.png) 
   <br> 
   Create an account by entering your details. <br>
-  ![Create](<create account.png>)
-  
-    
-  
+  ![Create](/Azure-Account-setup/create%20account.png)
   2 . If you already have a Microsoft account (Outlook, Hotmail, Xbox, etc.), click on "Sign In" in the top right corner. 
         ![signin](/Azure-Account-setup/Img/Signin.png) 
         <br>
