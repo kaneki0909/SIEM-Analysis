@@ -6,8 +6,8 @@
   1. If you don't have an Azure account, click on the "Start Free" button to sign up for a free trial.
   ![start free](/Azure-Account-setup/Img/Startfreeindication.png) 
   <br> 
-  Create an account by entering your details 
-  ![create](/Azure-Account-setup/Img/Signin.png) 
+  Create an account by entering your details <br>
+  ![create](/Azure-Account-setup/Img/Create.png) 
   
     
   
