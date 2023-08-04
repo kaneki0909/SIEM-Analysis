@@ -1,5 +1,5 @@
 # SIEM-Analysis Project
-## Setting up Virtual Machine on Azure 
+## Setting up Azure Account 
 -  https://github.com/kaneki0909/SIEM-Analysis/blob/main/Azure-Account-setup/AA-setup.md 
 <!-- TO-DO add youtube URL
 <br> TO-DO add my md file url  -->
