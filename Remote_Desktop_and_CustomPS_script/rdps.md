@@ -25,7 +25,7 @@ Configuring our Windows machine as an open honeynet to global networks, allowing
 
 - _Note_ : You need to get your own API key by creating an account on ipgeolocation.io. 
 
-[Powershell Script]() 
+[Powershell Script](https://github.com/kaneki0909/SIEM-Analysis/blob/main/logexp.ps1) 
 
 This script basically runs through the security logs of the people who failed to log in(RDP) and grabs their IP address and geo data from the Event viewer which we saw earlier and creates a new log file to a location. 
 
@@ -34,7 +34,7 @@ This script basically runs through the security logs of the people who failed to
 - Once you run the code it will create a log report at C:\ProgramData\ (You can find this out by using run and paste the path C:\ProgramData\ you should be able to see a file called failed_rdp)  
   - ![](RDPSimg/RD12.png)
   - ![](RDPSimg/RD13.png) 
-- [RDP Failed Logs]()
+- [RDP Failed Logs](https://github.com/kaneki0909/SIEM-Analysis/blob/main/failedrdp_log.txt)
 -  We can test it out by trying to fail a log in attempt on purpose using our remote desktop 
    -  Remote Desktop > paste the IP of your virtual machine > Give invalid credentials to test the failed log on. 
       -  ![](RDPSimg/RD14.png)
