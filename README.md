@@ -4,6 +4,9 @@ This project is about mapping failed brute-force RDP logins worldwide, showing w
 
 Using a world map visualization in Azure, we displayed attempted RDP logins along with attackers' locations and attack intensities over several days. We then analyzed this data as a group to discuss and document defense strategies against such attacks.
 
+## Architecture 
+  ![Architecture](img/arch.png)
+
 - Setups/Walkthrough 
   - [Virtual Machine Setup](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Virtual_Machine_Setup/Vm.md) 
   - [Log Analytics Workspace](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Log_Analytics_Workspace_setup/LA.md)
@@ -36,3 +39,7 @@ Here is a Figure that shows failed login attempts from around the globe that wer
 
 In conclusion, this project successfully demonstrated the potential risks posed by brute-force RDP attacks by mapping out failed login attempts worldwide. By leveraging cloud-based technologies like Microsoft Azure and Azure Sentinel SIEM, we were able to collect and analyze data on attacker locations and attack intensities. Through this analysis, we gained valuable insights into the behavior of cyber attacks and identified potential strategies for strengthening defenses against such threats. Moving forward, continued research and collaboration will be essential in developing effective countermeasures to mitigate the impact of cyber attacks on organizations and individuals.
 
+## Technologies used
+  - Microsoft Azure (Sentinel, Log Analytics, Virtual Machine)
+  - Powershell 
+  - ipgeolocation API
