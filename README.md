@@ -12,7 +12,9 @@ Using a world map visualization in Azure, we displayed attempted RDP logins alon
   - [Custom Log Table integration into Log Analytic Workspace]() 
 - MindMap 
   - ![](img/MingMap.png)
-- Key Insights 
+
+
+- Key Insights of the project
   - 🔒 Importance of SIEM tools: SIEM tools like Azure Sentinel are crucial for cybersecurity jobs as they help monitor and analyze security events, enabling proactive threat detection and response.
   - 🖥️ Setting up a virtual machine: Creating a honeypot virtual machine allows capturing and analyzing attack data without risking the main system’s security.
   - 📊 Analyzing log data: Log analytics and Azure Sentinel provide powerful tools to extract and analyze log data, helping to identify patterns and potential threats.
@@ -20,4 +22,15 @@ Using a world map visualization in Azure, we displayed attempted RDP logins alon
   - 🌍 Geographic data insights: Obtaining geographic data from IP addresses provides valuable insights into the origin and distribution of attacks, aiding in threat analysis and response.
   - 🗺️ Visualizing attacks: Visualizing attacks on a map using Azure Sentinel enhances situational awareness and helps identify regions with high threat activity.
 
+## Results 
+
+Using the World Map Visualization tool, I mapped out the failed RDP login attempts using the gathered data, revealing both the geographic locations and the severity of these failed attempts. 
+
+Here is a Figure that shows failed login attempts from around the globe that were made through a period of 6 hours 
+
+  ![](img/6%20hours.png)
+
+## Conclusion 
+
+In conclusion, this project successfully demonstrated the potential risks posed by brute-force RDP attacks by mapping out failed login attempts worldwide. By leveraging cloud-based technologies like Microsoft Azure and Azure Sentinel SIEM, we were able to collect and analyze data on attacker locations and attack intensities. Through this analysis, we gained valuable insights into the behavior of cyber attacks and identified potential strategies for strengthening defenses against such threats. Moving forward, continued research and collaboration will be essential in developing effective countermeasures to mitigate the impact of cyber attacks on organizations and individuals.
 
