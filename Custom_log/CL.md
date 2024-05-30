@@ -18,5 +18,5 @@ We're going to create a custom log inside of our log analytics workspace which w
    -  ![](CLimg/CL8.png)
 -  As you can see the Raw Data is not well organized for us to parse data and plot the graph on a map and analyze the data so before anything I am  going to write a query to parse data properly. Using the query script I could bifurcate the raw data into attributes (latitude, longitude, destination host, username,  sourcehost, country). 
    -  ![](CLimg/CL9.png)
-   -  [Query]()
+   -  [Data_extraction_Query](https://github.com/kaneki0909/SIEM-Analysis/blob/main/dataextractionquery.txt)
 -  Save the query. 

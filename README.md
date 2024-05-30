@@ -9,7 +9,7 @@ Using a world map visualization in Azure, we displayed attempted RDP logins alon
   - [Log Analytics Workspace](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Log_Analytics_Workspace_setup/LA.md)
   - [Sentinel Setup](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Sentinel_Setup/Sen.md) 
   - [Remote Desktop and Custom Powershell Script](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Remote_Desktop_and_CustomPS_script/rdps.md)
-  - [Custom Log Table integration into Log Analytic Workspace]() 
+  - [Custom Log Table integration into Log Analytic Workspace](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Custom_log/CL.md) 
   - [Data Visualization]()
 - MindMap 
   - ![](img/MingMap.png)
