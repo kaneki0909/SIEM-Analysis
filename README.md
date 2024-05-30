@@ -5,7 +5,7 @@ This project Demonstrates how to set up Azure Sentinel, a cloud-based SIEM and a
 In this project, a small but effective honeynet was built in Microsoft Azure, with log sources integrated into a Log Analytics workspace. Microsoft Sentinel was set up to send warnings and create incidents based on the incoming logs.
 
 - Setups/Walkthrough 
-  - [Virtual Machine Setup]() 
+  - [Virtual Machine Setup](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Virtual_Machine_Setup/Vm.md) 
   - [Log Analytics Workspace]()
   - [Sentinel Setup]() 
   - [Remote Desktop and Custom Powershell Script]()
