@@ -1,21 +1,23 @@
-# SIEM-Analysis Project
-## Setting up Azure Account 
-- [Step-by-Step Walkthrough](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Azure-Account-setup/AA-setup.md)
-- [Video Reference](https://www.youtube.com/watch?v=kyXhJyNZEJU) 
-<!-- TO-DO add youtube URL
-<br> TO-DO add my md file url  -->
+# Practical Insights into Azure Sentinel(SOC) and Honeypot/Honeynet Implementation 
 
-## Setting up Virtual Machine on Azure. 
- - [VM Creation Walkthrough with Firewall settings](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Virtual-Box-setup/Virtualbox.md)  
-## Setting up and linking log analytics for VM 
+This project Demonstrates how to set up Azure Sentinel, a cloud-based SIEM and a virtual machine as a honey pot and collects logs to display them in geo-graphical format.  
 
-## Setup Azure Sentinal 
+In this project, a small but effective honeynet was built in Microsoft Azure, with log sources integrated into a Log Analytics workspace. Microsoft Sentinel was set up to send warnings and create incidents based on the incoming logs.
 
-## Setting up remote desktop 
+- [Setup]() 
+  - [Virtual Machine Setup]() 
+  - [Log Analytics Workspace]()
+  - [Sentinel Setup]() 
+  - [Remote Desktop and Custom Powershell Script]()
+  - [Custom Log Table integration into Log Analytic Workspace]() 
+- MindMap 
+  - ![](img/MingMap.png)
+- Key Insights 
+  - 🔒 Importance of SIEM tools: SIEM tools like Azure Sentinel are crucial for cybersecurity jobs as they help monitor and analyze security events, enabling proactive threat detection and response.
+  - 🖥️ Setting up a virtual machine: Creating a honeypot virtual machine allows capturing and analyzing attack data without risking the main system’s security.
+  - 📊 Analyzing log data: Log analytics and Azure Sentinel provide powerful tools to extract and analyze log data, helping to identify patterns and potential threats.
+  - 🌐 Understanding internet security: Monitoring failed login attempts from different countries highlights the importance of strong passwords and multi-factor authentication to protect against unauthorized access.
+  - 🌍 Geographic data insights: Obtaining geographic data from IP addresses provides valuable insights into the origin and distribution of attacks, aiding in threat analysis and response.
+  - 🗺️ Visualizing attacks: Visualizing attacks on a map using Azure Sentinel enhances situational awareness and helps identify regions with high threat activity.
 
-## Setting up Powershell Script 
-## Execution 
-- Turn off Windows Firewall on VM 
-## Evaluation of Services 
-- Observe Event Viewer logs 
 - 
