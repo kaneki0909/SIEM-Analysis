@@ -7,7 +7,7 @@ In this project, a small but effective honeynet was built in Microsoft Azure, wi
 - Setups/Walkthrough 
   - [Virtual Machine Setup](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Virtual_Machine_Setup/Vm.md) 
   - [Log Analytics Workspace](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Log_Analytics_Workspace_setup/LA.md)
-  - [Sentinel Setup]() 
+  - [Sentinel Setup](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Sentinel_Setup/Sen.md) 
   - [Remote Desktop and Custom Powershell Script]()
   - [Custom Log Table integration into Log Analytic Workspace]() 
 - MindMap 
@@ -20,4 +20,4 @@ In this project, a small but effective honeynet was built in Microsoft Azure, wi
   - 🌍 Geographic data insights: Obtaining geographic data from IP addresses provides valuable insights into the origin and distribution of attacks, aiding in threat analysis and response.
   - 🗺️ Visualizing attacks: Visualizing attacks on a map using Azure Sentinel enhances situational awareness and helps identify regions with high threat activity.
 
-- 
+
