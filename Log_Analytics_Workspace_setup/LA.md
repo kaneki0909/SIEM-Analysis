@@ -12,7 +12,7 @@ In this project we will use this tool to ingest logs from the virtual machine an
   - Select the resource group that you create earlier and region according to you I am going to select West US 2 and then review and create.
     - ![](LAimg/LA2.png)
     - ![](LAimg/LA3.png)
-    - ![](Laimg/LA4.png)
+    - ![](LAimg/LA4.png)
   - Search for Microsoft defender (Previously known as security center), We are going to enable the ability gather logs from the virtual machine into the log analytics workspace so once you are in the Microsoft defender go to Environment settings under management. 
     - ![](LAimg/LA5.png)
   - Click on your Azure group or subscription and select your log honey pot. 
