@@ -6,7 +6,7 @@ In this project, a small but effective honeynet was built in Microsoft Azure, wi
 
 - Setups/Walkthrough 
   - [Virtual Machine Setup](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Virtual_Machine_Setup/Vm.md) 
-  - [Log Analytics Workspace]()
+  - [Log Analytics Workspace](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Log_Analytics_Workspace_setup/LA.md)
   - [Sentinel Setup]() 
   - [Remote Desktop and Custom Powershell Script]()
   - [Custom Log Table integration into Log Analytic Workspace]() 
