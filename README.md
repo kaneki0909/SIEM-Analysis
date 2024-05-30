@@ -1,8 +1,8 @@
 # Practical Insights into Azure Sentinel(SOC) and Honeypot/Honeynet Implementation 
 
-This project Demonstrates how to set up Azure Sentinel, a cloud-based SIEM and a virtual machine as a honey pot and collects logs to display them in geo-graphical format.  
+This project is about mapping failed brute-force RDP logins worldwide, showing where cyber attackers are based and the intensity of their attacks. We set up a Windows 10 Virtual Machine on Microsoft Azure, opened its ports to attract attackers, and used Azure Sentinel SIEM to analyze logs. These logs include data like attacker and victim IPs, which we extracted and enriched with geolocation info using a custom Powershell script. 
 
-In this project, a small but effective honeynet was built in Microsoft Azure, with log sources integrated into a Log Analytics workspace. Microsoft Sentinel was set up to send warnings and create incidents based on the incoming logs.
+Using a world map visualization in Azure, we displayed attempted RDP logins along with attackers' locations and attack intensities over several days. We then analyzed this data as a group to discuss and document defense strategies against such attacks.
 
 - Setups/Walkthrough 
   - [Virtual Machine Setup](https://github.com/kaneki0909/SIEM-Analysis/blob/main/Virtual_Machine_Setup/Vm.md) 
